@@ -1,4 +1,4 @@
-# Images uploaded for [Wonderlab+](http://wonderlabplus.sciencemuseumgroup.org.uk) entry into the 2023 [GLAMi Awards](https://www.museweb.net/glami-awards/)
+# Images uploaded for [Wonderlab+](http://wonderlabplus.sciencemuseumgroup.org.uk) entry into the 2023 [GLAMi Awards](https://www.museweb.net/glami-awards/) at the [MuseWeb 2023](https://mw23.my.mw) conference
 
 - [01](https://johnstack.github.io/wonderlabplus-images-glami-2023/Wonderlab+02.png)
 - [02](https://johnstack.github.io/wonderlabplus-images-glami-2023/Wonderlab+03.png)
@@ -12,3 +12,5 @@
 - [10](https://johnstack.github.io/wonderlabplus-images-glami-2023/Wonderlab+12.png)
 - [11](https://johnstack.github.io/wonderlabplus-images-glami-2023/Wonderlab+13.png)
 - [12](https://johnstack.github.io/wonderlabplus-images-glami-2023/Wonderlab+01.png)
+
+A [screen capture video](https://www.youtube.com/embed/bKdtv8KFcfY) is also included in the entry.
